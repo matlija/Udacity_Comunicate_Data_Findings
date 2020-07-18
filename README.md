@@ -12,6 +12,12 @@ In this project we had to prepare three different parts:
  * third part: we used a Jupyter Notebook to build a short presentation that illustrates interesting properties, trends and relationships that we discovered in the chosen dataset.
 
 
-### Introduction about chosen dataset
+### Overview about chosen dataset
 
 Dataset was taken from Kaggle (https://www.kaggle.com/soroushghaderi/chocolate-bar-2020?select=chocolate.csv), and the name of dataset is Chocolate Bar 2020.
+
+<img src="./Images/chocolate-183543_1920.jpg" width="250">
+
+The dataset have a total of 20 columns and 2224 rows.
+
+Column names are: ref, company, company_location, review_date, country_of_bean_origin, specific_bean_origin_or_bar_name, cocoa_percent, rating, counts_of_ingredients, beans, cocoa_butter, vanilla, lecithin, salt, sugar, sweetener_without_sugar, first_taste, second_taste, third_taste, fourth_taste.
