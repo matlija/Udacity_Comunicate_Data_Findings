@@ -1,7 +1,7 @@
 # Data Analyst Nanodegree - Udacity
 ## Project: Comunicate Data Findings
 
-![](./Images/cocoa-beans-499970_1920.jpg)
+![](./Images/cocoa-beans-499970_1920.jpg =200x200)
 ### Project description
 
 In this project we had to prepare three different parts:
