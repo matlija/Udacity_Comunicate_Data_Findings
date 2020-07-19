@@ -14,7 +14,7 @@ In this project we had to prepare three different parts:
 
 ### Overview about chosen dataset
 
-Dataset was taken from Kaggle (https://www.kaggle.com/soroushghaderi/chocolate-bar-2020?select=chocolate.csv), and the name of dataset is Chocolate Bar 2020.
+Dataset was taken from Kaggle, and the name of dataset is ![Chocolate Bar 2020](https://www.kaggle.com/soroushghaderi/chocolate-bar-2020?select=chocolate.csv).
 
 <img src="./Images/chocolate-183543_1920.jpg" width="250">
 
